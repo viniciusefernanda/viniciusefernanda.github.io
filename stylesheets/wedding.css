@@ -53,7 +53,7 @@
 
 .brideorgroom-violet.w-groom .w-content p,
 .brideorgroom-violet.w-bride .w-content p {
-    font-family: 'Roboto Slab', sans-serif;
+  font-family: 'Arapey', serif;
     font-size: 16px;
     line-height: 1.62;
     margin-bottom: 30px
@@ -139,10 +139,6 @@
 
 .ts-violet.testimonials-slider-w.flexslider .testimonial-brand {
     margin-top: 0;
-}
-
-.ts-violet.testimonials-slider-w.flexslider .testimonial-brand img {
-    width: 110px;
 }
 
 .blox.dark .ts-violet.testimonials-slider-w.flexslider .testimonial-brand img {
